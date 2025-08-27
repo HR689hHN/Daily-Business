@@ -23,4 +23,22 @@
 \contentsline {subsection}{\numberline {1.4.2}监管话语权的即时定价}{8}{subsection.1.4.2}%
 \contentsline {subsection}{\numberline {1.4.3}实业龙头的资本配置困境}{8}{subsection.1.4.3}%
 \contentsline {subsection}{\numberline {1.4.4}投资者结构再平衡}{8}{subsection.1.4.4}%
+\contentsline {section}{\numberline {1.5}《关于深入实施“人工智能+”行动的意见》全景速读}{10}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}政策定位与量化目标}{10}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}六大重点行动}{10}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}八项基础支撑}{10}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1.5.4}产业与资本映射}{11}{subsection.1.5.4}%
+\contentsline {subsection}{\numberline {1.5.5}实施机制与考核抓手}{11}{subsection.1.5.5}%
+\contentsline {section}{\numberline {1.6}国务院《“人工智能+”行动意见》深度解构}{13}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}财政范式跃迁：从“土地财政”到“算力财政”}{13}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}产业生死线：2027/2030/2035三阶段“渗透率红线”}{13}{subsection.1.6.2}%
+\contentsline {subsection}{\numberline {1.6.3}数据产权革命：公共财政资助数据强制开放}{13}{subsection.1.6.3}%
+\contentsline {subsection}{\numberline {1.6.4}全球治理筹码：把AI定位为“国际公共产品”}{13}{subsection.1.6.4}%
+\contentsline {subsection}{\numberline {1.6.5}风险缓释与治理沙盒}{14}{subsection.1.6.5}%
+\contentsline {section}{\numberline {1.7}《外卖员秒变F1车手？帅反而是最不重要的》全景速读}{14}{section.1.7}%
+\contentsline {subsection}{\numberline {1.7.1}事件概况}{14}{subsection.1.7.1}%
+\contentsline {subsection}{\numberline {1.7.2}制服设计亮点}{14}{subsection.1.7.2}%
+\contentsline {subsection}{\numberline {1.7.3}行业与社会意义}{15}{subsection.1.7.3}%
+\contentsline {subsection}{\numberline {1.7.4}时尚与文化溢出}{15}{subsection.1.7.4}%
+\contentsline {subsection}{\numberline {1.7.5}未来展望}{15}{subsection.1.7.5}%
 \contentsfinish 
