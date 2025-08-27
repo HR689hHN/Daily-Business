@@ -41,4 +41,16 @@
 \contentsline {subsection}{\numberline {1.7.3}行业与社会意义}{15}{subsection.1.7.3}%
 \contentsline {subsection}{\numberline {1.7.4}时尚与文化溢出}{15}{subsection.1.7.4}%
 \contentsline {subsection}{\numberline {1.7.5}未来展望}{15}{subsection.1.7.5}%
+\contentsline {section}{\numberline {1.8}外卖制服“F1化”背后的深度透视}{16}{section.1.8}%
+\contentsline {subsection}{\numberline {1.8.1}劳动力品牌化：从成本中心到品牌资产}{16}{subsection.1.8.1}%
+\contentsline {subsection}{\numberline {1.8.2}公共资源市场化：城市治理外包的新接口}{16}{subsection.1.8.2}%
+\contentsline {subsection}{\numberline {1.8.3}反消费主义与Z世代身份叙事}{16}{subsection.1.8.3}%
+\contentsline {subsection}{\numberline {1.8.4}产业链外溢效应}{16}{subsection.1.8.4}%
+\contentsline {subsection}{\numberline {1.8.5}长期竞争格局}{17}{subsection.1.8.5}%
+\contentsline {section}{\numberline {1.9}段永平：好的企业文化，就是做对的事}{18}{section.1.9}%
+\contentsline {subsection}{\numberline {1.9.1}企业文化定义与作用}{18}{subsection.1.9.1}%
+\contentsline {subsection}{\numberline {1.9.2}三要素框架：使命—愿景—核心价值观}{18}{subsection.1.9.2}%
+\contentsline {subsection}{\numberline {1.9.3}落地方法与误区}{18}{subsection.1.9.3}%
+\contentsline {subsection}{\numberline {1.9.4}实战判断指标}{19}{subsection.1.9.4}%
+\contentsline {subsection}{\numberline {1.9.5}对投资者与创业者的启示}{19}{subsection.1.9.5}%
 \contentsfinish 
