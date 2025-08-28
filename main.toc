@@ -1,108 +1,199 @@
 \contentsline {chapter}{\centering \heiti \Large 目\hskip 1em\relax 录}{1}{section*.1}%
-\contentsline {chapter}{\numberline {第一章\hspace {.3em}}25.8.26}{1}{chapter.1}%
-\contentsline {section}{\numberline {1.1}2025年8月26日《财经早餐》全景速读}{1}{section.1.1}%
-\contentsline {subsection}{\numberline {1.1.1}宏观与政策}{1}{subsection.1.1.1}%
-\contentsline {subsection}{\numberline {1.1.2}市场热度}{1}{subsection.1.1.2}%
-\contentsline {subsection}{\numberline {1.1.3}产业焦点}{2}{subsection.1.1.3}%
-\contentsline {subsection}{\numberline {1.1.4}公司公告精选}{2}{subsection.1.1.4}%
-\contentsline {subsection}{\numberline {1.1.5}财富与消费}{3}{subsection.1.1.5}%
-\contentsline {subsection}{\numberline {1.1.6}环球速览}{3}{subsection.1.1.6}%
-\contentsline {section}{\numberline {1.2}深度透视：2025 年 8 月 26 日《财经早餐》的宏观信号链}{3}{section.1.2}%
-\contentsline {subsection}{\numberline {1.2.1}地产：从“限购放松”到“利率并轨”——政策底的第三波冲击}{3}{subsection.1.2.1}%
-\contentsline {subsection}{\numberline {1.2.2}资金面：3.14 万亿成交背后的“三股增量”}{4}{subsection.1.2.2}%
-\contentsline {subsection}{\numberline {1.2.3}产业政策：碳市场与并购浪潮的“双击”}{4}{subsection.1.2.3}%
-\contentsline {subsection}{\numberline {1.2.4}产业映射：三条高景气链的盈利验证}{4}{subsection.1.2.4}%
-\contentsline {subsection}{\numberline {1.2.5}风险定价：全球衰退交易与大宗背离}{4}{subsection.1.2.5}%
-\contentsline {subsection}{\numberline {1.2.6}结论：范式切换的临界点}{5}{subsection.1.2.6}%
-\contentsline {section}{\numberline {1.3}\color {blue}\textbf {Latex使用方法——同时加粗与变色的标题}}{5}{section.1.3}%
-\contentsline {section}{\numberline {1.4}文章聚焦的宏观经济信号：一次“政策底—流动性底—盈利底”的三重确认}{5}{section.1.4}%
-\contentsline {section}{\numberline {1.5}地产政策底的“上海模板”——文章所指具体内容}{6}{section.1.5}%
-\contentsline {section}{\numberline {1.6}购房者能得到的四大“真金白银”好处}{6}{section.1.6}%
-\contentsline {section}{\numberline {1.7}2025年8月26日《财经早餐·快递提价》全景速读}{7}{section.1.7}%
-\contentsline {subsection}{\numberline {1.7.1}政策端：反内卷“第一枪”}{7}{subsection.1.7.1}%
-\contentsline {subsection}{\numberline {1.7.2}价格战“两轮半”复盘}{7}{subsection.1.7.2}%
-\contentsline {subsection}{\numberline {1.7.3}产业链影响}{8}{subsection.1.7.3}%
-\contentsline {subsection}{\numberline {1.7.4}需求侧：提价能否换来“量价齐升”？}{8}{subsection.1.7.4}%
-\contentsline {subsection}{\numberline {1.7.5}风险提示}{8}{subsection.1.7.5}%
-\contentsline {section}{\numberline {1.8}深度洞察：藏在“快递提价”背后的行业密码}{8}{section.1.8}%
-\contentsline {subsection}{\numberline {1.8.1}一、行政与市场边界的微妙再平衡}{8}{subsection.1.8.1}%
-\contentsline {subsection}{\numberline {1.8.2}二、快递与电商的“囚徒困境”正式显性化}{9}{subsection.1.8.2}%
-\contentsline {subsection}{\numberline {1.8.3}三、价格战终局：从“成本竞争”到“服务分层”}{9}{subsection.1.8.3}%
-\contentsline {subsection}{\numberline {1.8.4}四、资本视角：估值模型面临范式切换}{9}{subsection.1.8.4}%
-\contentsline {subsection}{\numberline {1.8.5}五、宏观映射：涨价链的“多米诺骨牌”}{9}{subsection.1.8.5}%
-\contentsline {subsection}{\numberline {1.8.6}结语：一次“反内卷”实验，三张底牌待揭}{10}{subsection.1.8.6}%
-\contentsline {section}{\numberline {1.9}快递提价对电商的六大具体影响}{10}{section.1.9}%
-\contentsline {subsection}{\numberline {1.9.1}1. 成本端：直接抬升商家履约费用}{10}{subsection.1.9.1}%
-\contentsline {subsection}{\numberline {1.9.2}2. 价格端：终端售价或“隐性转嫁”}{10}{subsection.1.9.2}%
-\contentsline {subsection}{\numberline {1.9.3}3. 竞争端：小商家加速出清，平台马太效应强化}{10}{subsection.1.9.3}%
-\contentsline {subsection}{\numberline {1.9.4}4. 物流端：逆向物流与发货时效重新博弈}{11}{subsection.1.9.4}%
-\contentsline {subsection}{\numberline {1.9.5}5. 现金流端：账期与库存周转压力上升}{11}{subsection.1.9.5}%
-\contentsline {subsection}{\numberline {1.9.6}6. 战略端：平台与商家的五项自救动作}{11}{subsection.1.9.6}%
-\contentsline {subsection}{\numberline {1.9.7}量化影响速览}{12}{subsection.1.9.7}%
-\contentsline {paragraph}{结论}{12}{table.caption.2}%
-\contentsline {section}{\numberline {1.10}如何理解“电商下沉市场红利见顶”对快递行业的深层影响？}{12}{section.1.10}%
-\contentsline {subsection}{\numberline {1.10.1}一、从“增量故事”到“存量残杀”}{12}{subsection.1.10.1}%
-\contentsline {subsection}{\numberline {1.10.2}二、“低价诅咒”进一步加深}{13}{subsection.1.10.2}%
-\contentsline {subsection}{\numberline {1.10.3}三、网络经济效应被“稀释”}{13}{subsection.1.10.3}%
-\contentsline {subsection}{\numberline {1.10.4}四、服务分层与网络重构的三条出路}{13}{subsection.1.10.4}%
-\contentsline {subsection}{\numberline {1.10.5}五、对竞争格局的终极影响}{13}{subsection.1.10.5}%
-\contentsline {subsection}{\numberline {1.10.6}结论：从“流量红利”到“生态红利”}{14}{subsection.1.10.6}%
-\contentsline {section}{\numberline {1.11}2025年8月26日《财经早餐·消费贷贴息》全景速读}{14}{section.1.11}%
-\contentsline {subsection}{\numberline {1.11.1}政策框架}{14}{subsection.1.11.1}%
-\contentsline {subsection}{\numberline {1.11.2}落地难点}{14}{subsection.1.11.2}%
-\contentsline {subsection}{\numberline {1.11.3}机构策略：场景为王，头部集中}{15}{subsection.1.11.3}%
-\contentsline {subsection}{\numberline {1.11.4}市场影响}{15}{subsection.1.11.4}%
-\contentsline {section}{\numberline {1.12}消费贷贴息政策速读}{15}{section.1.12}%
-\contentsline {subsection}{\numberline {1.12.1}核心概念}{15}{subsection.1.12.1}%
-\contentsline {subsection}{\numberline {1.12.2}贴息机制拆解}{16}{subsection.1.12.2}%
-\contentsline {section}{\numberline {1.13}贴息政策对年轻人购房的五大真实影响（2025年8月版）}{16}{section.1.13}%
-\contentsline {subsection}{\numberline {1.13.1}1 直接禁区：贴息资金严禁流入楼市}{16}{subsection.1.13.1}%
-\contentsline {subsection}{\numberline {1.13.2}2 间接通道：装修与家电链的杠杆效应}{16}{subsection.1.13.2}%
-\contentsline {subsection}{\numberline {1.13.3}3 心理预期：从“观望”到“微行动”}{17}{subsection.1.13.3}%
-\contentsline {subsection}{\numberline {1.13.4}4 现金流：已购房年轻家庭的“减压阀”}{17}{subsection.1.13.4}%
-\contentsline {subsection}{\numberline {1.13.5}5 长期结构：无法改变“高房价—低收入”核心矛盾}{17}{subsection.1.13.5}%
-\contentsline {subsection}{\numberline {1.13.6}结论：贴息≠楼市刺激剂}{17}{subsection.1.13.6}%
-\contentsline {section}{\numberline {1.14}贴息政策“最优惠”消费场景清单（2025年9月版）}{18}{section.1.14}%
-\contentsline {subsection}{\numberline {1.14.1}官方圈定的七大“高优惠”场景}{18}{subsection.1.14.1}%
-\contentsline {subsection}{\numberline {1.14.2}普惠级“小额全品类”场景}{18}{subsection.1.14.2}%
-\contentsline {subsection}{\numberline {1.14.3}贴息力度对比速览}{19}{subsection.1.14.3}%
-\contentsline {subsection}{\numberline {1.14.4}一句话结论}{19}{subsection.1.14.4}%
-\contentsline {section}{\numberline {1.15}2025年8月26日《财经早餐·泡泡玛特》全景速读}{19}{section.1.15}%
-\contentsline {subsection}{\numberline {1.15.1}新品热度}{19}{subsection.1.15.1}%
-\contentsline {subsection}{\numberline {1.15.2}最强中报}{20}{subsection.1.15.2}%
-\contentsline {subsection}{\numberline {1.15.3}行业对比}{20}{subsection.1.15.3}%
-\contentsline {subsection}{\numberline {1.15.4}估值与天花板争议}{20}{subsection.1.15.4}%
-\contentsline {subsection}{\numberline {1.15.5}风险提示}{20}{subsection.1.15.5}%
-\contentsline {section}{\numberline {1.16}一句话秒懂：什么是“潮玩”？}{21}{section.1.16}%
-\contentsline {subsection}{\numberline {1.16.1}官方定义拆解}{21}{subsection.1.16.1}%
-\contentsline {subsection}{\numberline {1.16.2}与传统玩具的 3 个区别}{21}{subsection.1.16.2}%
-\contentsline {section}{\numberline {1.17}2025年8月26日《财经早餐·卫星互联网牌照》全景速读}{21}{section.1.17}%
-\contentsline {subsection}{\numberline {1.17.1}政策进展}{22}{subsection.1.17.1}%
-\contentsline {subsection}{\numberline {1.17.2}组网加速}{22}{subsection.1.17.2}%
-\contentsline {subsection}{\numberline {1.17.3}技术现状与差距}{22}{subsection.1.17.3}%
-\contentsline {subsection}{\numberline {1.17.4}应用与痛点}{22}{subsection.1.17.4}%
-\contentsline {subsection}{\numberline {1.17.5}产业链机会}{23}{subsection.1.17.5}%
-\contentsline {subsection}{\numberline {1.17.6}时间表与商业化}{23}{subsection.1.17.6}%
-\contentsline {section}{\numberline {1.18}牌照发放冲击波：受益最大的五大行业}{23}{section.1.18}%
-\contentsline {subsection}{\numberline {1.18.1}1 卫星制造与火箭发射（空间段）}{23}{subsection.1.18.1}%
-\contentsline {subsection}{\numberline {1.18.2}2 地面设备与核心网（地面段）}{23}{subsection.1.18.2}%
-\contentsline {subsection}{\numberline {1.18.3}3 芯片与终端（用户段）}{23}{subsection.1.18.3}%
-\contentsline {subsection}{\numberline {1.18.4}4 运营商与增值业务}{24}{subsection.1.18.4}%
-\contentsline {subsection}{\numberline {1.18.5}5 下游应用生态}{24}{subsection.1.18.5}%
-\contentsline {subsection}{\numberline {1.18.6}一句话速览}{24}{subsection.1.18.6}%
-\contentsline {section}{\numberline {1.19}2025年8月26日《财经早餐·视频播客》全景速读}{24}{section.1.19}%
-\contentsline {subsection}{\numberline {1.19.1}名人集体转向}{24}{subsection.1.19.1}%
-\contentsline {subsection}{\numberline {1.19.2}平台侧“军备竞赛”}{25}{subsection.1.19.2}%
-\contentsline {subsection}{\numberline {1.19.3}产品形态优势}{25}{subsection.1.19.3}%
-\contentsline {subsection}{\numberline {1.19.4}数据成绩单}{25}{subsection.1.19.4}%
-\contentsline {subsection}{\numberline {1.19.5}长期价值与挑战}{25}{subsection.1.19.5}%
-\contentsline {subsection}{\numberline {1.19.6}投资线索}{25}{subsection.1.19.6}%
-\contentsline {section}{\numberline {1.20}2025年8月26日《财经早餐·伟大的博弈》全景速读}{26}{section.1.20}%
-\contentsline {subsection}{\numberline {1.20.1}历史时间轴}{26}{subsection.1.20.1}%
-\contentsline {subsection}{\numberline {1.20.2}危机中的人性棱镜}{26}{subsection.1.20.2}%
-\contentsline {subsection}{\numberline {1.20.3}金融本质再定义}{27}{subsection.1.20.3}%
-\contentsline {subsection}{\numberline {1.20.4}现代启示}{27}{subsection.1.20.4}%
-\contentsline {section}{\numberline {1.21}《伟大的博弈》点名的金融巨头速览}{27}{section.1.21}%
-\contentsline {section}{\numberline {1.22}华尔街九大里程碑事件：现代金融市场的“源代码”}{28}{section.1.22}%
-\contentsline {subsection}{\numberline {1.22.1}一句话总结}{28}{subsection.1.22.1}%
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}25.8.27}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}2025年8月27日《财经早餐》全景速读}{1}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}政策与宏观}{1}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}资金面与资本市场}{2}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}产业与公司}{2}{subsection.1.1.3}%
+\contentsline {subsection}{\numberline {1.1.4}地产与基建}{3}{subsection.1.1.4}%
+\contentsline {subsection}{\numberline {1.1.5}商品与全球宏观}{3}{subsection.1.1.5}%
+\contentsline {section}{\numberline {1.2}深度洞察：2025年8月27日《财经早餐》内核拆解}{3}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}政策范式切换：从“土地财政”到“算力财政”}{3}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}居民资产负债表：一场静默的“财富搬家”}{4}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}产业生死线：折叠屏、机器人、汽车进入“清场时刻”}{4}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}全球滞胀交易：金油比发出衰退预警}{4}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.2.5}人民币与资本账户：贬值压力中的“结构性保护”}{5}{subsection.1.2.5}%
+\contentsline {section}{\numberline {1.3}“类土地估值锚+算力中心REITs”全解}{5}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}三资本为何被称为“类土地”}{5}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}REITs溢价路径如何复制}{5}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}政策信号与资金动向}{6}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}风险与对冲}{6}{subsection.1.3.4}%
+\contentsline {section}{\numberline {1.4}4个月万亿ETF增量的微观溯源}{6}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}旧信仰崩塌：地产+刚兑双杀}{6}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}资金流向显微镜}{6}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}“第一次大规模”的意义}{7}{subsection.1.4.3}%
+\contentsline {section}{\numberline {1.5}两融余额新高背后的杠杆迁徙逻辑}{7}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}旧杠杆：首付+按揭的房产模式}{7}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}新杠杆：两融+ETF的资本市场模式}{7}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}迁移的量化证据}{8}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1.5.4}宏观与微观影响}{8}{subsection.1.5.4}%
+\contentsline {section}{\numberline {1.6}“券商两融”全景详解}{8}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}业务定义}{8}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}运作流程}{8}{subsection.1.6.2}%
+\contentsline {subsection}{\numberline {1.6.3}风险与风控}{9}{subsection.1.6.3}%
+\contentsline {subsection}{\numberline {1.6.4}当前市场意义}{9}{subsection.1.6.4}%
+\contentsline {section}{\numberline {1.7}南向资金“撑盘不抬盘”的微观逻辑拆解}{9}{section.1.7}%
+\contentsline {subsection}{\numberline {1.7.1}资金流向三重视角}{10}{subsection.1.7.1}%
+\contentsline {subsection}{\numberline {1.7.2}两大阴影如何压制外资}{10}{subsection.1.7.2}%
+\contentsline {subsection}{\numberline {1.7.3}跷跷板效应机制}{10}{subsection.1.7.3}%
+\contentsline {section}{\numberline {1.8}“金油比预警 + 中概退市阴影”拆解}{10}{section.1.8}%
+\contentsline {subsection}{\numberline {1.8.1}金油比预警：经济衰退的先行指标}{10}{subsection.1.8.1}%
+\contentsline {subsection}{\numberline {1.8.2}中概退市阴影：港股流动性与估值折价}{11}{subsection.1.8.2}%
+\contentsline {subsection}{\numberline {1.8.3}结论：双重阴影下的港股定价}{11}{subsection.1.8.3}%
+\contentsline {section}{\numberline {1.9}金油比：全球经济的“温度计”与“晴雨表”}{12}{section.1.9}%
+\contentsline {subsection}{\numberline {1.9.1}价格背后的宏观逻辑}{12}{subsection.1.9.1}%
+\contentsline {subsection}{\numberline {1.9.2}金油比的计算公式与经验阈值}{12}{subsection.1.9.2}%
+\contentsline {subsection}{\numberline {1.9.3}领先衰退的实证规律}{12}{subsection.1.9.3}%
+\contentsline {subsection}{\numberline {1.9.4}领先机制：价格→预期→行为}{13}{subsection.1.9.4}%
+\contentsline {subsection}{\numberline {1.9.5}使用限制与补充}{13}{subsection.1.9.5}%
+\contentsline {section}{\numberline {1.10}江苏国泰“120亿理财+18亿炒股”事件全景速读}{14}{section.1.10}%
+\contentsline {subsection}{\numberline {1.10.1}事件时间轴}{14}{subsection.1.10.1}%
+\contentsline {subsection}{\numberline {1.10.2}资金画像}{14}{subsection.1.10.2}%
+\contentsline {subsection}{\numberline {1.10.3}主业与战略矛盾}{14}{subsection.1.10.3}%
+\contentsline {subsection}{\numberline {1.10.4}监管与市场反馈}{15}{subsection.1.10.4}%
+\contentsline {subsection}{\numberline {1.10.5}启示与结论}{15}{subsection.1.10.5}%
+\contentsline {section}{\numberline {1.11}江苏国泰“炒股急刹”事件深度拆解}{15}{section.1.11}%
+\contentsline {subsection}{\numberline {1.11.1}资金空转的宏观镜像}{15}{subsection.1.11.1}%
+\contentsline {subsection}{\numberline {1.11.2}监管话语权的即时定价}{16}{subsection.1.11.2}%
+\contentsline {subsection}{\numberline {1.11.3}实业龙头的资本配置困境}{16}{subsection.1.11.3}%
+\contentsline {subsection}{\numberline {1.11.4}投资者结构再平衡}{16}{subsection.1.11.4}%
+\contentsline {section}{\numberline {1.12}《关于深入实施“人工智能+”行动的意见》全景速读}{17}{section.1.12}%
+\contentsline {subsection}{\numberline {1.12.1}政策定位与量化目标}{17}{subsection.1.12.1}%
+\contentsline {subsection}{\numberline {1.12.2}六大重点行动}{17}{subsection.1.12.2}%
+\contentsline {subsection}{\numberline {1.12.3}八项基础支撑}{18}{subsection.1.12.3}%
+\contentsline {subsection}{\numberline {1.12.4}产业与资本映射}{18}{subsection.1.12.4}%
+\contentsline {subsection}{\numberline {1.12.5}实施机制与考核抓手}{19}{subsection.1.12.5}%
+\contentsline {section}{\numberline {1.13}国务院《“人工智能+”行动意见》深度解构}{19}{section.1.13}%
+\contentsline {subsection}{\numberline {1.13.1}财政范式跃迁：从“土地财政”到“算力财政”}{19}{subsection.1.13.1}%
+\contentsline {subsection}{\numberline {1.13.2}产业生死线：2027/2030/2035三阶段“渗透率红线”}{19}{subsection.1.13.2}%
+\contentsline {subsection}{\numberline {1.13.3}数据产权革命：公共财政资助数据强制开放}{19}{subsection.1.13.3}%
+\contentsline {subsection}{\numberline {1.13.4}全球治理筹码：把AI定位为“国际公共产品”}{20}{subsection.1.13.4}%
+\contentsline {subsection}{\numberline {1.13.5}风险缓释与治理沙盒}{20}{subsection.1.13.5}%
+\contentsline {section}{\numberline {1.14}政府非税收入全景速览}{20}{section.1.14}%
+\contentsline {subsection}{\numberline {1.14.1}十大主要类别}{20}{subsection.1.14.1}%
+\contentsline {subsection}{\numberline {1.14.2}趋势与改革动向}{21}{subsection.1.14.2}%
+\contentsline {section}{\numberline {1.15}“收支两条线”与“小金库”详解}{21}{section.1.15}%
+\contentsline {subsection}{\numberline {1.15.1}术语拆解}{21}{subsection.1.15.1}%
+\contentsline {subsection}{\numberline {1.15.2}运行机制}{22}{subsection.1.15.2}%
+\contentsline {subsection}{\numberline {1.15.3}“小金库”产生的三大温床}{22}{subsection.1.15.3}%
+\contentsline {subsection}{\numberline {1.15.4}制度成效}{22}{subsection.1.15.4}%
+\contentsline {section}{\numberline {1.16}《外卖员秒变F1车手？帅反而是最不重要的》全景速读}{23}{section.1.16}%
+\contentsline {subsection}{\numberline {1.16.1}事件概况}{23}{subsection.1.16.1}%
+\contentsline {subsection}{\numberline {1.16.2}制服设计亮点}{23}{subsection.1.16.2}%
+\contentsline {subsection}{\numberline {1.16.3}行业与社会意义}{23}{subsection.1.16.3}%
+\contentsline {subsection}{\numberline {1.16.4}时尚与文化溢出}{24}{subsection.1.16.4}%
+\contentsline {subsection}{\numberline {1.16.5}未来展望}{24}{subsection.1.16.5}%
+\contentsline {section}{\numberline {1.17}外卖制服“F1化”背后的深度透视}{24}{section.1.17}%
+\contentsline {subsection}{\numberline {1.17.1}劳动力品牌化：从成本中心到品牌资产}{24}{subsection.1.17.1}%
+\contentsline {subsection}{\numberline {1.17.2}公共资源市场化：城市治理外包的新接口}{25}{subsection.1.17.2}%
+\contentsline {subsection}{\numberline {1.17.3}反消费主义与Z世代身份叙事}{25}{subsection.1.17.3}%
+\contentsline {subsection}{\numberline {1.17.4}产业链外溢效应}{25}{subsection.1.17.4}%
+\contentsline {subsection}{\numberline {1.17.5}长期竞争格局}{25}{subsection.1.17.5}%
+\contentsline {section}{\numberline {1.18}段永平：好的企业文化，就是做对的事}{27}{section.1.18}%
+\contentsline {subsection}{\numberline {1.18.1}企业文化定义与作用}{27}{subsection.1.18.1}%
+\contentsline {subsection}{\numberline {1.18.2}三要素框架：使命—愿景—核心价值观}{27}{subsection.1.18.2}%
+\contentsline {subsection}{\numberline {1.18.3}落地方法与误区}{27}{subsection.1.18.3}%
+\contentsline {subsection}{\numberline {1.18.4}实战判断指标}{28}{subsection.1.18.4}%
+\contentsline {subsection}{\numberline {1.18.5}对投资者与创业者的启示}{28}{subsection.1.18.5}%
+\contentsline {section}{\numberline {1.19}段永平“企业文化观”深度解构}{28}{section.1.19}%
+\contentsline {subsection}{\numberline {1.19.1}文化与资本：非财务护城河的定价逻辑}{28}{subsection.1.19.1}%
+\contentsline {subsection}{\numberline {1.19.2}治理维度：创始人即文化，文化即治理}{29}{subsection.1.19.2}%
+\contentsline {subsection}{\numberline {1.19.3}行为经济学视角：反短期激励的自我绑定}{29}{subsection.1.19.3}%
+\contentsline {subsection}{\numberline {1.19.4}行业映射：高ROIC赛道更需要文化过滤器}{29}{subsection.1.19.4}%
+\contentsline {subsection}{\numberline {1.19.5}投资者可操作的“文化尽调”框架}{29}{subsection.1.19.5}%
+\contentsline {section}{\numberline {1.20}高 ROIC（Return on Invested Capital）简明释义与实例}{30}{section.1.20}%
+\contentsline {subsection}{\numberline {1.20.1}概念拆解}{30}{subsection.1.20.1}%
+\contentsline {subsection}{\numberline {1.20.2}高ROIC典型案例}{30}{subsection.1.20.2}%
+\contentsline {subsection}{\numberline {1.20.3}低ROIC对比示例}{30}{subsection.1.20.3}%
+\contentsline {section}{\numberline {1.21}马斯克再诉OpenAI与苹果：Grok的“破局”与国产AI的“务实”}{31}{section.1.21}%
+\contentsline {subsection}{\numberline {1.21.1}诉讼全景}{31}{subsection.1.21.1}%
+\contentsline {subsection}{\numberline {1.21.2}数据对比：Grok的“老七困境”}{31}{subsection.1.21.2}%
+\contentsline {subsection}{\numberline {1.21.3}xAI的“自我矛盾”}{31}{subsection.1.21.3}%
+\contentsline {subsection}{\numberline {1.21.4}国产AI的“务实路线”}{32}{subsection.1.21.4}%
+\contentsline {subsection}{\numberline {1.21.5}行业启示}{32}{subsection.1.21.5}%
+\contentsline {section}{\numberline {1.22}马斯克诉讼与全球AI博弈深度透视}{32}{section.1.22}%
+\contentsline {subsection}{\numberline {1.22.1}平台流量垄断新范式}{32}{subsection.1.22.1}%
+\contentsline {subsection}{\numberline {1.22.2}公益面具与商业现实悖论}{33}{subsection.1.22.2}%
+\contentsline {subsection}{\numberline {1.22.3}国产AI的“精度和算力脱钩”实验}{33}{subsection.1.22.3}%
+\contentsline {subsection}{\numberline {1.22.4}全球AI产业分叉口}{33}{subsection.1.22.4}%
+\contentsline {section}{\numberline {1.23}东方甄选“235亿市值蒸发”全景速读}{34}{section.1.23}%
+\contentsline {subsection}{\numberline {1.23.1}股价闪崩时间线}{34}{subsection.1.23.1}%
+\contentsline {subsection}{\numberline {1.23.2}2025 财年核心数据}{34}{subsection.1.23.2}%
+\contentsline {subsection}{\numberline {1.23.3}估值杀逻辑}{34}{subsection.1.23.3}%
+\contentsline {subsection}{\numberline {1.23.4}竞争与模式痛点}{34}{subsection.1.23.4}%
+\contentsline {subsection}{\numberline {1.23.5}未来关键变量}{34}{subsection.1.23.5}%
+\contentsline {section}{\numberline {1.24}东方甄选“235亿蒸发”深度透视}{35}{section.1.24}%
+\contentsline {subsection}{\numberline {1.24.1}估值范式切换：从市梦到市销}{35}{subsection.1.24.1}%
+\contentsline {subsection}{\numberline {1.24.2}流量拐点的财务映射}{35}{subsection.1.24.2}%
+\contentsline {subsection}{\numberline {1.24.3}渠道与供应链短板}{35}{subsection.1.24.3}%
+\contentsline {subsection}{\numberline {1.24.4}竞争格局恶化}{35}{subsection.1.24.4}%
+\contentsline {subsection}{\numberline {1.24.5}资本市场启示}{36}{subsection.1.24.5}%
+\contentsline {section}{\numberline {1.25}8月21日《从硬件商到生活OS：小米的估值跃迁才刚刚开始》}{37}{section.1.25}%
+\contentsline {subsection}{\numberline {1.25.1}史上最强Q2成绩单}{37}{subsection.1.25.1}%
+\contentsline {subsection}{\numberline {1.25.2}三大硬件引擎}{37}{subsection.1.25.2}%
+\contentsline {subsection}{\numberline {1.25.3}人车家生态护城河}{37}{subsection.1.25.3}%
+\contentsline {subsection}{\numberline {1.25.4}技术与成本优势}{38}{subsection.1.25.4}%
+\contentsline {subsection}{\numberline {1.25.5}估值跃迁路径}{38}{subsection.1.25.5}%
+\contentsline {section}{\numberline {1.26}小米“从硬件商到生活OS”深度透视}{38}{section.1.26}%
+\contentsline {subsection}{\numberline {1.26.1}估值范式升级：硬件PE→生态LTV}{38}{subsection.1.26.1}%
+\contentsline {subsection}{\numberline {1.26.2}飞轮效应：数据→服务→留存→数据}{38}{subsection.1.26.2}%
+\contentsline {subsection}{\numberline {1.26.3}半导体化护城河}{39}{subsection.1.26.3}%
+\contentsline {subsection}{\numberline {1.26.4}竞争坐标}{39}{subsection.1.26.4}%
+\contentsline {subsection}{\numberline {1.26.5}>资本映射}{39}{subsection.1.26.5}%
+\contentsline {section}{\numberline {1.27}“pp”含义速览}{39}{section.1.27}%
+\contentsline {subsection}{\numberline {1.27.1}定义与示例}{39}{subsection.1.27.1}%
+\contentsline {subsection}{\numberline {1.27.2}与“\%”区别}{39}{subsection.1.27.2}%
+\contentsline {section}{\numberline {1.28}“硬件 PE → 生态 LTV”跃迁释义}{40}{section.1.28}%
+\contentsline {subsection}{\numberline {1.28.1}硬件 PE（市盈率）模型}{40}{subsection.1.28.1}%
+\contentsline {subsection}{\numberline {1.28.2}生态 LTV（用户生命周期价值）模型}{40}{subsection.1.28.2}%
+\contentsline {subsection}{\numberline {1.28.3}跃迁逻辑}{40}{subsection.1.28.3}%
+\contentsline {section}{\numberline {1.29}市盈率（PE）与市净率（PB）全景对比}{41}{section.1.29}%
+\contentsline {subsection}{\numberline {1.29.1}定义与公式}{41}{subsection.1.29.1}%
+\contentsline {subsection}{\numberline {1.29.2}适用行业与案例}{41}{subsection.1.29.2}%
+\contentsline {subsection}{\numberline {1.29.3}互补使用场景}{41}{subsection.1.29.3}%
+\contentsline {section}{\numberline {1.30}市盈率对新能源行业的“温度计”作用}{41}{section.1.30}%
+\contentsline {subsection}{\numberline {1.30.1}高PE案例：技术+故事双溢价}{42}{subsection.1.30.1}%
+\contentsline {subsection}{\numberline {1.30.2}中位PE案例：成长与盈利平衡}{42}{subsection.1.30.2}%
+\contentsline {subsection}{\numberline {1.30.3}低PE案例：周期顶点或盈利兑现}{42}{subsection.1.30.3}%
+\contentsline {subsection}{\numberline {1.30.4}三条实战规则}{42}{subsection.1.30.4}%
+\contentsline {section}{\numberline {1.31}行业估值方法论：为什么高成长轻资产看PE，重资产高杠杆看PB}{43}{section.1.31}%
+\contentsline {subsection}{\numberline {1.31.1}高成长、轻资产 → 首选 PE}{43}{subsection.1.31.1}%
+\contentsline {subsection}{\numberline {1.31.2}重资产、高杠杆 → 首选 PB}{43}{subsection.1.31.2}%
+\contentsline {subsection}{\numberline {1.31.3}周期行业的 PB 锚定逻辑}{43}{subsection.1.31.3}%
+\contentsline {subsection}{\numberline {1.31.4}杠杆放大 PB 敏感性}{44}{subsection.1.31.4}%
+\contentsline {section}{\numberline {1.32}PEG 完整解码}{44}{section.1.32}%
+\contentsline {subsection}{\numberline {1.32.1}公式与含义}{44}{subsection.1.32.1}%
+\contentsline {subsection}{\numberline {1.32.2}计算示例}{44}{subsection.1.32.2}%
+\contentsline {subsection}{\numberline {1.32.3}使用要点}{44}{subsection.1.32.3}%
+\contentsline {section}{\numberline {1.33}EPS（Earnings Per Share）全景速览}{45}{section.1.33}%
+\contentsline {subsection}{\numberline {1.33.1}概念与公式}{45}{subsection.1.33.1}%
+\contentsline {subsection}{\numberline {1.33.2}使用场景}{45}{subsection.1.33.2}%
+\contentsline {subsection}{\numberline {1.33.3}实战示例}{45}{subsection.1.33.3}%
+\contentsline {subsection}{\numberline {1.33.4}注意要点}{45}{subsection.1.33.4}%
+\contentsline {section}{\numberline {1.34}EPS、PEG、PE、PB 四指标核心区别与联系}{46}{section.1.34}%
+\contentsline {subsection}{\numberline {1.34.1}定义与公式}{46}{subsection.1.34.1}%
+\contentsline {subsection}{\numberline {1.34.2}核心区别}{46}{subsection.1.34.2}%
+\contentsline {subsection}{\numberline {1.34.3}联系与递进}{46}{subsection.1.34.3}%
+\contentsline {subsection}{\numberline {1.34.4}实战举例}{47}{subsection.1.34.4}%
+\contentsline {section}{\numberline {1.35}品牌寻找增长确定性：小红书“需求-内容-人群”闭环全景速读}{48}{section.1.35}%
+\contentsline {subsection}{\numberline {1.35.1}三大变化重构投放逻辑}{48}{subsection.1.35.1}%
+\contentsline {subsection}{\numberline {1.35.2}小红书确定性增长的三支点}{48}{subsection.1.35.2}%
+\contentsline {subsection}{\numberline {1.35.3}行业映射}{48}{subsection.1.35.3}%
+\contentsline {subsection}{\numberline {1.35.4}方法论升级}{49}{subsection.1.35.4}%
+\contentsline {section}{\numberline {1.36}小红书：存量流量时代的“需求灯塔”}{49}{section.1.36}%
+\contentsline {subsection}{\numberline {1.36.1}流量红利终结的底层矛盾}{49}{subsection.1.36.1}%
+\contentsline {subsection}{\numberline {1.36.2}小红书的三步解法}{49}{subsection.1.36.2}%
+\contentsline {subsection}{\numberline {1.36.3}行业影响}{49}{subsection.1.36.3}%
+\contentsline {subsection}{\numberline {1.36.4}资本映射}{50}{subsection.1.36.4}%
+\contentsline {section}{\numberline {1.37}高PE低PB vs 低PE高PB：估值密码对照表}{50}{section.1.37}%
+\contentsline {subsection}{\numberline {1.37.1}高PE + 低PB：成长溢价 + 资产折价}{50}{subsection.1.37.1}%
+\contentsline {subsection}{\numberline {1.37.2}低PE + 高PB：盈利兑现 + 资产泡沫}{50}{subsection.1.37.2}%
+\contentsline {subsection}{\numberline {1.37.3}投资提示}{51}{subsection.1.37.3}%
+\contentsline {section}{\numberline {1.38}戴维斯双杀（Davis Double Play）全景速读}{54}{section.1.38}%
+\contentsline {subsection}{\numberline {1.38.1}概念拆解}{54}{subsection.1.38.1}%
+\contentsline {section}{\numberline {1.39}估值坐标系：PE与PB的四维决策框架}{54}{section.1.39}%
+\contentsline {subsection}{\numberline {1.39.1}1. 筛选：先定位坐标，再缩小范围}{54}{subsection.1.39.1}%
+\contentsline {subsection}{\numberline {1.39.2}2. 定价：用二维坐标校准"合理区间"}{55}{subsection.1.39.2}%
+\contentsline {subsection}{\numberline {1.39.3}3. 择时：利用估值钟摆的"极端点"}{55}{subsection.1.39.3}%
+\contentsline {subsection}{\numberline {1.39.4}4. 风控：设置估值"熔断线"}{55}{subsection.1.39.4}%
+\contentsline {subsection}{\numberline {1.39.5}决策流程图（简化版）}{56}{subsection.1.39.5}%
 \contentsfinish 
